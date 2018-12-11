@@ -2,8 +2,8 @@
   "id": "c54a9898-8c46-4628-934b-e0c6bd1e4256",
   "name": "ALProject1",
   "publisher": "D.E. Veloper",
-  "brief": "",
-  "description": "",
+  "brief": "Seminar Module",
+  "description": "Seminar module for development class",
   "version": "1.0.0.0",
   "privacyStatement": "",
   "EULA": "",
@@ -15,6 +15,7 @@
   "screenshots": [],
   "platform": "13.0.0.0",
   "application": "13.0.0.0",
+  "showMyCode": true,
   "idRange": {
     "from": 50100,
     "to": 50149
